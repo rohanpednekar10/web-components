@@ -1,0 +1,27 @@
+.form-control:focus, .btn-link:focus {
+  box-shadow: none;
+}
+
+.form-control::placeholder {
+  font-size: 20px;
+  color: #aaa;
+}
+
+.fa-search {
+	color: #aaa;
+}
+
+.logo {
+	margin-top: 150px;
+}
+
+.selected {
+	background-color: #E8E8E8;
+}
+
+li {
+	list-style: none;
+	font-size: 20px;
+	padding: 5px 5px 5px 16px;
+	cursor: pointer;
+}
